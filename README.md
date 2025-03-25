@@ -16,7 +16,7 @@ Installation
 
 Ensure you have Python 3.x installed on your system. Then, clone the repository:
 
-git clone https://github.com/yourusername/solar-power-simulation.git
+git clone https://github.com/Yohannes-Kewani/solar-power-simulation.git
 cd solar-power-simulation
 
 Usage
