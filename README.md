@@ -14,7 +14,7 @@ Simple and lightweight Python script for quick energy estimation.
 
 Installation
 
-Ensure you have Python 3.x installed on your system. Then, clone the repository:
+Ensure you have Python 3.6 or above installed on your system. Then, clone the repository:
 
 git clone https://github.com/Yohannes-Kewani/solar-power-simulation.git
 cd solar-power-simulation
@@ -39,7 +39,7 @@ Sunlight Hours: 5 hours
 
 This outputs:
 
-Estimated daily energy output: X.XX kWh
+Estimated daily energy output: 1.60 kWh
 
 Modify the input values in solar_simulation.py to simulate different scenarios.
 
